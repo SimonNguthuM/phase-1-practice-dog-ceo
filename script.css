@@ -1,0 +1,15 @@
+#dog-image-container {
+    display: flex;
+}
+
+.img-list {
+    border: 1px solid black;
+    list-style-type: none;
+    width: 30%;
+    height: 17rem;
+}
+
+.img-list img {
+    width: 100%;
+    height: 100%;
+}
